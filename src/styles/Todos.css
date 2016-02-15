@@ -1,0 +1,22 @@
+h3 {
+  margin: 0;
+}
+
+.btn {
+  color: #333;
+}
+
+input {
+  color: #333;
+}
+
+ul {
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+}
+
+li {
+  text-align: left;
+  padding: 2px 0;
+}
